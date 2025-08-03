@@ -1,0 +1,15 @@
+CodingBat-Redesign/
+├── README.md
+├── Screens/
+│   ├── 1_SignIn.jpg
+│   ├── 2_SignUp.jpg
+│   ├── 3_JavaHome.jpg
+│   ├── 4_PythonHome.jpg
+│   ├── 5_Warmup.jpg
+│   ├── 6_Problem.jpg
+│   ├── 7_Output.jpg
+├── Cover/
+│   └── CoverImage.jpg
+├── Mockups/
+│   └── (Any desktop mockup or carousel images)
+├── FigmaLink.txt
