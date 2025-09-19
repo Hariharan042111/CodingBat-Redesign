@@ -48,7 +48,7 @@ CodingBat is powerful for coding practice but has an outdated UI. I redesigned i
 ## 🔗 Figma File
 
 Check out the full design on Figma:  
-[https://www.figma.com/design/n4qFszvHZsRjUqFW2kznLr/Ui-Ux-Designer-CV--Community-?node-id=283-1789&t=4cKoEvESEAh8Y55Y-1]
+[https://www.figma.com/design/n4qFszvHZsRjUqFW2kznLr/My-Projects?node-id=443-3050&t=GSfQ2hUmdhMbRHEE-1]
 
 ---
 
